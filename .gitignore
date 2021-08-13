@@ -1,2 +1,2 @@
-/env/mysql.env
-/env
+env/
+env/mysql.env
